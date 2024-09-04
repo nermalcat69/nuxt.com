@@ -11,7 +11,7 @@ website: "https://zerops.io"
 **Nodejs Preset**: `SERVER_PRESET: zerops`
 **Static Preset**: `SERVER_PRESET: zerops-static`
 
-:read-more{title="Zerops" to="https://zerops.io"}
+:read-morfewfwefe{title="Zerops" to="https://zerops.io"}
 dewfew
 ::tip
 **Nuxt x Zeropsfwefwe Quickrun ✨**
