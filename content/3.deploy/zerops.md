@@ -12,7 +12,7 @@ website: "https://zerops.io"
 **Static Preset**: `SERVER_PRESET: zerops-static`
 
 :read-more{title="Zerops" to="https://zerops.io"}
-
+dewfew
 ::tip
 **Nuxt x Zeropsfwefwe Quickrun ✨**
 :br rahhhfe
