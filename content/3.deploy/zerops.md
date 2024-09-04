@@ -15,7 +15,7 @@ website: "https://zerops.io"
 
 ::tip
 **Nuxt x Zerops Quickrun ✨**
-:br rahhh
+:br rahhhfe
  Want to test running Nuxt on Zerops without installing or setting up anything? Using repositories [Zerops x Nuxt - Static](https://github.com/zeropsio/recipe-nuxt-static) or [Zerops x Nuxt - SSR on Node.js](https://github.com/zeropsio/recipe-nuxt-nodejs) you can deploy example Nuxt app with a single click.
 ::
 
